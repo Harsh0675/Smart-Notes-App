@@ -14,6 +14,8 @@ android {
         versionCode = 2
         versionName = "1.1.0"
     }
+}
+
 kotlin {
     jvmToolchain(21)
 }
